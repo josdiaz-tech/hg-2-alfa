@@ -1,0 +1,16 @@
+# Configuración super secreta de bravo
+
+# Título de la página (porque sin título, ¿quién sabría de qué va todo esto?)
+titulo_web = Pull Requests: ¡Porque el código no se escribe solo!
+
+# Mensaje de bienvenida (porque un saludo nunca está de más)
+mensaje_bienvenida = ¡Hola, futuro astronauta del código! Prepárate para despegar hacia el mundo de los pull requests.
+
+# Botón mágico (bueno, no es tan mágico, pero suena cool)
+texto_boton_magico = ¡Quiero ser un maestro de los pull requests!
+
+# Pie de página (porque alguien tiene que poner su nombre)
+autor = Creado por el Equipo de Desarrolladores Locos (y un poco caóticos)
+
+# Mensaje secreto (solo para los iniciados)
+mensaje_secreto = Shhh... ¡Los mejores desarrolladores usan sombreros de papel de aluminio!
